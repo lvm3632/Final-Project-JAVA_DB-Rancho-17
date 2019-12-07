@@ -1,2 +1,2 @@
-# Database made in Java
+# Database with SQL ORACLE in Java
 
